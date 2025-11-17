@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://giant-virus-biology.github.io/program.html</loc>
+    <lastmod>2025-11-17T07:58:49.022Z</lastmod>
+  </url>
+  <url>
     <loc>https://giant-virus-biology.github.io/index.html</loc>
-    <lastmod>2025-11-17T07:52:59.923Z</lastmod>
+    <lastmod>2025-11-17T07:58:49.022Z</lastmod>
+  </url>
+  <url>
+    <loc>https://giant-virus-biology.github.io/contact.html</loc>
+    <lastmod>2025-11-17T07:58:49.022Z</lastmod>
   </url>
 </urlset>
