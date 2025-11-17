@@ -1,3 +1,25 @@
-# 6th Ringberg symposium on Giant Virus Biology
+![Castle Ringberg - Conference Venue](ringberg-pencil.jpg)
 
-blabla bla
+# 6^th^ Ringberg symposium on Giant Virus Biology
+
+After four successful symposia in 2013, 2015, 2017, 2019 and 2023, we are happy to announce the 6^th^ Ringberg Symposium on Giant Virus Biology. This international scientific gathering is a platform to discuss the genetics, structure, biochemistry, ecology, and evolution of extremely large DNA viruses and their interaction partners.
+
+## Information & program overview
+
+The Symposium will be held from 15 to 19 December 2025 at [Ringberg Castle](https://www.schloss-ringberg.de/home) near Tegernsee, Germany, in the foothills of the Bavarian Alps. The Symposium starts on Monday, 15 Dec 2025 at 3 pm with coffee and cake. You can check in before 3 pm; however, the rooms may be available only from 3 pm onward. 
+
+We are delighted that Vincent Racaniello plans to record an episode of their highly successful podcast [This Week in Virology](https://www.microbe.tv/twiv/)!
+
+As is tradition for this meeting, we will have an Open Mic evening and we hope that many of you will contribute something! We welcome any creative art form, e.g. musical performances, poems, jokes, dances, stories, artwork, or games. The only catch is that it must have a connection to viruses :) 
+
+The final session of scientific talks will take place on Friday morning, so please stay until the end of the meeting out of respect for all presenters. The Symposium ends on Friday, 19 Dec at noon; packed lunches will be available.
+
+## Accommodation & Conference Fee
+Since Ringberg Castle has a limited capacity of beds, we will book additional rooms at hotel(s) located a few kilometers away from Ringberg. This will require daily taxi rides between the hotel(s) and the Castle. The decision of who will stay at the Castle or at the hotel will be made based on your registration information (hint: sharing a room will increase your chances of staying on Castle grounds).
+
+For people staying at the Castle, the conference fee amounts to ~650 Euros and covers meals and accommodation. It can be paid by credit card at the end of the meeting. The conference fee for those staying at a hotel outside the castle is ~315 Euros and includes lunch and dinner at the castle. Additional hotel room charges have to be paid directly at the hotel.
+
+As in previous years, the DFG (German Research Council) has made some funds available to subsidize our travel costs (thanks for that!). If you require assistance with your travel expenses and/or conference fees, please indicate this in your registration email. Due to the limited capacity of the conference venue, participation in the Symposium is by invitation only.
+
+A detailed [Program](program.qmd) will be available once registration is completed.
+On Friday night, we will have a virus-themed Open Mic, where everyone can present his/her favorite song, musical piece (piano & guitar are present), dance, poem, limerick, haiku, artwork or game to a geeky audience. Whether self-composed or copied, solo or in teams, funny or serious, the only rule is that it must be on a virus-related topic. We look forward to your contributions!
