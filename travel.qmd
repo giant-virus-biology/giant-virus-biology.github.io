@@ -1,6 +1,6 @@
 # Travel information
 
-<iframe src="Ringberg2025_Travel_v1.pdf" width="100%" height="600px">
+<iframe src="Ringberg2025_Travel_v1.pdf" width="100%" height="1000px">
   This browser does not support PDFs. Please download the PDF to view it:
   <a href="Ringberg2025_Travel_v1.pdf">Download PDF</a>.
 </iframe>
