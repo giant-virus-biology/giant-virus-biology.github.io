@@ -16,7 +16,9 @@ website:
         text: Travel
       - href: contact.qmd
         text: Contact
-
+  page-footer:
+    left: "© 2025 Thomas Hackl"
+    right: "[Impressum](impressum.qmd)"
 
 format:
   html:
