@@ -9,6 +9,8 @@ website:
         text: Home
       - href: program.qmd
         text: Program
+      - href: abstracts.qmd
+        text: Abstracts
     right:
       - href: https://www.schloss-ringberg.de/home
         text: Venue
