@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "abstracts.html",
+    "href": "abstracts.html",
+    "title": "Abstracts",
+    "section": "",
+    "text": "Abstracts\n\nThis browser does not support PDFs. Please download the PDF to view it: &lt;a href=\"Ringberg2025_Abstracts_v1.pdf\"&gt;Download PDF&lt;/a&gt;."
+  },
+  {
     "objectID": "travel.html",
     "href": "travel.html",
     "title": "Travel information",
@@ -40,5 +47,12 @@
     "title": "Overview",
     "section": "",
     "text": "Overview\ncan take a second to load \n\n\nSessions"
+  },
+  {
+    "objectID": "impressum.html",
+    "href": "impressum.html",
+    "title": "Ringberg 2025",
+    "section": "",
+    "text": "Website maintainer / Responsible for content\nDr. Thomas Hackl | 📧 t.hackl@rug.nl\nAssistant Professor for Eco-evolutionary Bioinformatics\nGELIFES, University of Groningen Nijenborgh 7, 9747 AG Groningen, The Netherlands\n\n\nInstitution\nThis website is part of academic activities associated with the Max Planck Society, Germany. The views expressed here are those of the author(s) and do not necessarily represent the institution’s positions.\n\n\nDisclaimer\nThis site contains academic and educational content provided without commercial intent. External links are provided for informational purposes; their content remains the responsibility of their respective owners.\n\n\nPrivacy\nThis website does not use cookies, analytics, or tracking. GitHub Pages may collect technical data as part of standard web hosting (see GitHub Privacy Statement)."
   }
 ]

@@ -1,19 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://giant-virus-biology.github.io/abstracts.html</loc>
+    <lastmod>2025-12-14T13:26:40.850Z</lastmod>
+  </url>
+  <url>
     <loc>https://giant-virus-biology.github.io/travel.html</loc>
-    <lastmod>2025-12-10T14:45:57.697Z</lastmod>
+    <lastmod>2025-12-14T13:26:40.851Z</lastmod>
   </url>
   <url>
     <loc>https://giant-virus-biology.github.io/contact.html</loc>
-    <lastmod>2025-12-10T14:45:57.696Z</lastmod>
+    <lastmod>2025-12-14T13:26:40.850Z</lastmod>
   </url>
   <url>
     <loc>https://giant-virus-biology.github.io/index.html</loc>
-    <lastmod>2025-12-10T14:45:57.696Z</lastmod>
+    <lastmod>2025-12-14T13:26:40.850Z</lastmod>
   </url>
   <url>
     <loc>https://giant-virus-biology.github.io/program.html</loc>
-    <lastmod>2025-12-10T14:45:57.696Z</lastmod>
+    <lastmod>2025-12-14T13:26:40.850Z</lastmod>
+  </url>
+  <url>
+    <loc>https://giant-virus-biology.github.io/impressum.html</loc>
+    <lastmod>2025-12-14T13:26:40.850Z</lastmod>
   </url>
 </urlset>
