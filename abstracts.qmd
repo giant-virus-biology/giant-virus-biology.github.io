@@ -2,5 +2,5 @@
 
 <iframe src="Ringberg2025_Abstracts_v1.pdf" width="100%" height="600px">
   This browser does not support PDFs. Please download the PDF to view it:
-  <a href="Ringberg2025_Abstracts_v1.pdf">Download PDF</a>.
+  <a href="Ringberg2025_Abstracts_v2.pdf">Download PDF</a>.
 </iframe>
